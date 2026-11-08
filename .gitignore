@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+db.sqlite3
+media/
+.ipynb_checkpoints/
+*.pkl
+students.csv
+
+
+encodefaces.ipynb
+*.csv
